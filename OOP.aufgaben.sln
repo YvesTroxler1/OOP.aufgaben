@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mond_Yves", "..\Mond_Yves\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tannenbaum_Yves", "..\Tannenbaum_Yves\Tannenbaum_Yves.csproj", "{78562DD7-9E80-4A3F-AE87-57060C709B66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warenkorb_Yves", "..\Warenkorb_Yves\Warenkorb_Yves.csproj", "{2118331B-21F0-4BE9-B377-0D40EDE1F13F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{78562DD7-9E80-4A3F-AE87-57060C709B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78562DD7-9E80-4A3F-AE87-57060C709B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78562DD7-9E80-4A3F-AE87-57060C709B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2118331B-21F0-4BE9-B377-0D40EDE1F13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2118331B-21F0-4BE9-B377-0D40EDE1F13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2118331B-21F0-4BE9-B377-0D40EDE1F13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2118331B-21F0-4BE9-B377-0D40EDE1F13F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
